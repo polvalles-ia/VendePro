@@ -1,0 +1,7 @@
+{
+  "name": "VendePro: Experto en Segunda Mano",
+  "description": "Tu asistente de IA especializado en marketing de segunda mano para Wallapop, Vinted y más. Analiza tus fotos, optimiza tus anuncios y maximiza tus ventas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

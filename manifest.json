@@ -1,0 +1,18 @@
+
+{
+  "name": "VendePro AI: Experto Segunda Mano",
+  "short_name": "VendePro",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#059669",
+  "description": "Asistente de IA para ventas en Wallapop y Vinted",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3649/3649275.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
